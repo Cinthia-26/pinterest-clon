@@ -13,4 +13,4 @@
 * BOOTSTRAP
 
 # Captura del proyecto
-![Captura del proyecto](/imagenes/Pinterest_Icon.png)
+![Captura del proyecto](/imagenes/Evidencia.jpeg)
